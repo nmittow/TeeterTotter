@@ -1,7 +1,7 @@
 # TeeterTotter
 A TeeterTotter with LED chase lights along each side.
 
-Simple circuit, simple code, super cool effect.
+Simple circuit, simple code, super cool effect.  Uses [FastLED](https://github.com/FastLED/FastLED).
 
 ~15' teeter totter, wooden, with some channels routed down each side.  Run an addressable (APA102) strip down each side.  Wire strips together in parallel.
 
