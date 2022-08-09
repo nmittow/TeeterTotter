@@ -9,6 +9,6 @@ Link potentiometer to pivot point in whatever way seems best.
 
 Wire up as below:
 
-![Fritzing diagram](/TeeterTotter-WiringFritzing.png)
+![Fritzing diagram](/TeeterTotter-WiringFritzing-2.png)
 
 Upload code, and bam, profit.
