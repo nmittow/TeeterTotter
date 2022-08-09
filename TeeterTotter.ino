@@ -58,8 +58,7 @@ void callibrate() {
 }
 
 void setup() {
-  // put your setup code here, to run once:
-  FastLED.addLeds<APA102, DATA_PIN, CLOCK_PIN, BGR>(leds, NUM_LEDS);  // BGR ordering is typical
+  FastLED.addLeds<APA102, DATA_PIN, CLOCK_PIN, BGR>(leds, NUM_LEDS);
   Serial.begin(115200);
   callibrate();
 
